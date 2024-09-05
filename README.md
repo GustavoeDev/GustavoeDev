@@ -17,7 +17,7 @@
 <img align="right" alt="Code Image" src="./code.png"  width="330px" />
 
 ## FrontEnd Junior em Desenvolvimento
-(React JS | Typescript | Javascript | HTML | CSS ) 🚀
+( React JS | Typescript | Javascript | HTML | CSS ) 🚀
 - 🎓 Estudante de ADS
 - 💻 Desenvolvedor FrontEnd Júnior, aprendendo ReactJS
 - 📚 Constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos
