@@ -1,8 +1,8 @@
 <h1 align=center>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Gustavo!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Gustavo!" />
 </h1>
 
-<img align="right" alt="Code Girl image" src="./code.png"  width="300px"/>
+<img align="right" alt="Code Image" src="./code.png"  width="300px"/>
 
 ## Um Desenvolvedor FrontEnd Junior em desenvolvimento
 (React JS | Typescript | Javascript | HTML | CSS ) 🚀
@@ -27,9 +27,7 @@
 
 <br>
 
-<hr/>
-
-
+##
 <div>
     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GustavoeDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
