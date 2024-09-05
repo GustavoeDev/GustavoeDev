@@ -23,6 +23,7 @@
 - 📚 Constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos
 - 💡 Sempre trabalhando em novos projetos para aprimorar minhas habilidades em programação
 
-##
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoeDev&theme=tokyonight)
 
