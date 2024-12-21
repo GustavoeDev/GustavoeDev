@@ -19,7 +19,7 @@
 ## FrontEnd Junior em Desenvolvimento
 ( React JS | Next JS | Typescript | Javascript | HTML | CSS ) 🚀
 - 🎓 Estudante de ADS
-- 💻 Desenvolvedor FrontEnd Júnior, aprendendo NextJS
+- 💻 Desenvolvedor FrontEnd Júnior, aprendendo Python + Django
 - 📚 Constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos
 - 💡 Sempre trabalhando em novos projetos para aprimorar minhas habilidades em programação
 
