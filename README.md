@@ -3,23 +3,23 @@
 </h1>
 
 <div> 
-  <a href="mailto:gustavoe.dev@gmail.com">
+  <a href="mailto:gustavoe.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
+  <a href="www.linkedin.com/in/gustavoedev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.gustavoedev.com.br/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
 <img align="right" alt="Code Image" src="./code.png"  width="330px" />
 
-## Desenvolvedor FrontEnd em Formação
-( React JS | Next JS | Typescript | Javascript | HTML | CSS ) 🚀
-- 🎓 Estudante de ADS
-- 💻 Desenvolvedor FrontEnd Júnior, aprendendo Python + Django
+## Desenvolvedor de Software
+( React JS | Next JS | Typescript | Django ) 🚀
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvedor FrontEnd, aprendendo Java + Spring Boot
 - 📚 Constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos
 - 💡 Sempre trabalhando em novos projetos para aprimorar minhas habilidades em programação
 
