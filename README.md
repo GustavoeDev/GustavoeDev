@@ -2,17 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Gustavo!" />
 </h1>
 
-<div> 
-  <a href="mailto:gustavoe.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center">
+
+  <!-- Email -->
+  <a href="mailto:gustavoe.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gustavo - Email" />
   </a>
-  <a href="www.linkedin.com/in/gustavoedev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gustavoedev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gustavo - LinkedIn" />
   </a>
-  <a href="https://www.gustavoedev.com.br/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+
+  <!-- Portfolio -->
+  <a href="https://www.gustavoedev.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Gustavo - Portfolio" />
   </a>
+
 </div>
+
 
 <img align="right" alt="Code Image" src="./code.png"  width="330px" />
 
