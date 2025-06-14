@@ -39,7 +39,7 @@
 <br/>
 
 
-## 📊 GitHub Stats
+## 📊 Status do Github
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoeDev&theme=transparent" />
@@ -47,7 +47,7 @@
 <br/>
 
 
-## 📫 Connect With Me
+## 📫 Conecte-se comigo
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gustavoedev/" target="_blank">
